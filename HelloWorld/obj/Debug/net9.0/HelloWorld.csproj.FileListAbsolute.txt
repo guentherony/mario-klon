@@ -1,0 +1,15 @@
+E:\Entwicklung\mario-klon\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+E:\Entwicklung\mario-klon\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+E:\Entwicklung\mario-klon\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+E:\Entwicklung\mario-klon\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+E:\Entwicklung\mario-klon\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+E:\Entwicklung\mario-klon\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
